@@ -1,2 +1,2 @@
-# cvedia
+# cv
 For Job Application
